@@ -21,14 +21,14 @@
         <li>React</li>
         <li>Vue</li>
         <li>ExpressJs</li>
-        <li>NodeJs</li>
+        <!-- <li>NodeJs</li> -->
         <li>MySQL</li>
         <li>MongoDB</li>
 
         <p class="my-3 text-left">Expert in creating APIs</p>
         <hr />
         <p class="my-3 text-left">Stacks</p>
-        <li>MERN Stack</li>
+        <!-- <li>MERN Stack</li> -->
         <li>TALL Stack</li>
         <li>XAMPP</li>
       </ul>
